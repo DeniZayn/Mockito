@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExampleMockito</string>
+    <string name="getgoods">getGoods</string>
+    <string name="requestgoods">requestGoods</string>
+</resources>
